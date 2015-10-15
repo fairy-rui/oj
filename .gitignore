@@ -1,0 +1,15 @@
+### PyCharm ###
+## Directory-based project format:
+.idea/
+
+### Python ###
+# Distribution / packaging
+venv/
+work_dir/
+log/
+data_dir/
+tests/
+
+# some special files
+# config*.py
+files.txt

@@ -1,0 +1,8 @@
+argparse==1.2.1
+ecdsa==0.13
+lorun==1.0.1
+mysql-connector-python==2.0.3
+paramiko==1.16.0
+pika==0.9.14
+pycrypto==2.6.1
+wsgiref==0.1.2
