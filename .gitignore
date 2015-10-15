@@ -9,6 +9,8 @@ work_dir/
 log/
 data_dir/
 tests/
+*.pyc
+*.*~
 
 # some special files
 # config*.py
